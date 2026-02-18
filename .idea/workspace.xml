@@ -7,8 +7,6 @@
     <list default="true" id="3104a0b5-0faa-4cf0-9e00-e3fe1caa9baa" name="Changes" comment="Primer commit con los codigos fuentes sin compilar">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practica.1/ito/poo/Mascota.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practica.1/ito/poo/Mascota.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ito/poo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ito/poo/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +14,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
